@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\seminar\\GameOfLife\\GameOfLifeTests\\GameOfLifeTests.csproj": {}
+  },
+  "projects": {
+    "c:\\seminar\\GameOfLife\\GameOfLifeTests\\GameOfLifeTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\seminar\\GameOfLife\\GameOfLifeTests\\GameOfLifeTests.csproj",
+        "projectName": "GameOfLifeTests",
+        "projectPath": "c:\\seminar\\GameOfLife\\GameOfLifeTests\\GameOfLifeTests.csproj",
+        "packagesPath": "C:\\Users\\Snehal.Dhoble\\.nuget\\packages\\",
+        "outputPath": "c:\\seminar\\GameOfLife\\GameOfLifeTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Snehal.Dhoble\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://mgalfadev.pkgs.visualstudio.com/_packaging/milliman/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mgalfadev/_packaging/thirdparty/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "c:\\seminar\\GameOfLife\\GameOfLife\\GameOfLife.csproj": {
+                "projectPath": "c:\\seminar\\GameOfLife\\GameOfLife\\GameOfLife.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\seminar\\GameOfLife\\GameOfLife\\GameOfLife.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\seminar\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+        "projectName": "GameOfLife",
+        "projectPath": "c:\\seminar\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+        "packagesPath": "C:\\Users\\Snehal.Dhoble\\.nuget\\packages\\",
+        "outputPath": "c:\\seminar\\GameOfLife\\GameOfLife\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Snehal.Dhoble\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://mgalfadev.pkgs.visualstudio.com/_packaging/milliman/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mgalfadev/_packaging/thirdparty/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
